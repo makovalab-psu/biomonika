@@ -1,0 +1,9 @@
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\bin\Debug\vzorky.exe
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\bin\Debug\vzorky.pdb
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\vzorky.Form1.resources
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\vzorky.Properties.Resources.resources
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\vzorky.exe
+C:\Users\micha13\Desktop\programy\vzorky\vzorky\obj\x86\Debug\vzorky.pdb
